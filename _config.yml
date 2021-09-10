@@ -24,7 +24,7 @@ description: Statistics, Uncertainty Quantification and interesting problems...w
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  Jackson-SE
+github_username:  samjacksonstats
 
 # Build settings
 theme: minima
