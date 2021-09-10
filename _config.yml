@@ -21,7 +21,7 @@
 title: Samuel Jackson
 email: samuel.e.jackson@durham.ac.uk
 description: Statistics, Uncertainty Quantification and interesting problems...with impactful applications...find me at the Department of Mathematical Sciences, Durham University, Durham, DH1 3LE, UK.
-baseurl: "/samjacksonstats" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  Jackson-SE
