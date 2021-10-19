@@ -4,8 +4,9 @@ title: Talks
 permalink: /talks/
 ---
 
+- 18 October 2021: Known Boundary Emulation of Computer Models. Statistics Seminar, Durham University, UK.
 
-- 30 April 2021: Understanding Scientific Processes via Sequential History Matching and Em- ulation of Computer Models. Statistics Seminar, University of Glasgow, UK.
+- 30 April 2021: Understanding Scientific Processes via Sequential History Matching and Emulation of Computer Models. Statistics Seminar, University of Glasgow, UK.
 
 - 1 February 2021: Bayes Linear Emulation of Simulator Networks. Statistics Seminar, Durham University, UK.
 
@@ -18,7 +19,7 @@ to Epidemic Decision Making. Spring Research Conference, Virginia, USA.
 
 - 13 March 2019: Statistical Modelling for Disease Threat Policy Making. STEM for Britain, House of Commons, Westminster, UK.
 
-- 21 February 2019: Approaches to the Emulation of Chains of Computer Models with Appli- cation to Epidemic Decision Making. Research seminar, University of Southampton, UK.
+- 21 February 2019: Approaches to the Emulation of Chains of Computer Models with Application to Epidemic Decision Making. Research seminar, University of Southampton, UK.
 
 - 11 June 2018: Design of Physical Systems Experiments Using History Matching Methodology. Models 2 Decisions Conference, University of Cambridge, UK.
 
