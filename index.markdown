@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="pics/me.jpg" height="200">
+<img src="pics/meo.jpg" height="200">
 
 My name is Sam Jackson.  I am an Assistant Professor at Durham University, UK.  
 
