@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-- Jackson, S. E. and Vernon, I. (2022, to appear) [**Efficient Emulation of Computer Models Utilising Multiple Known Boundaries of Differing Dimension.**] Bayesian Analysis.
+- Jackson, S. E. and Vernon, I. (2022, to appear) **Efficient Emulation of Computer Models Utilising Multiple Known Boundaries of Differing Dimension.** Bayesian Analysis.
 
 - Jackson, S. E., Vernon, I., Liu, J. and Lindsey, K. (2020) [**Understanding Hormonal Crosstalk in Arabidopsis Root Development via Emulation and History Matching.**][jackson2020uhc] Statistical Applications in Genetics and Molecular Biology.
 
