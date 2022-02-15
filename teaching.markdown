@@ -4,5 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+In 2021/22, I am teaching the following courses at Durham University:
 
-I will be lecturing a part of Durham University's Master of Data Science module on Machine Learning in January 2022.
+- MATH42815: Master of Data Science module on Machine Learning.  Some open-source lecture notes for this course can be found [**here**][jackson2022ml]. 
+
+[jackson2022ml]: https://bookdown.org/ssjackson300/Machine-Learning-Lecture-Notes/
