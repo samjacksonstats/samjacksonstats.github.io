@@ -13,11 +13,11 @@ My name is Sam Jackson.  I am an Assistant Professor at Durham University, UK.
 <img src="pics/wheat.jpg" height="130">
 <img src="pics/flu.jpg" height="130">
 
-My research interests lie primarily in the statistical analysis of computer models, as utilised to aid the understanding of complex physical processes, in particular;
+My research interests lie primarily in the **statistical analysis of computer models**, as utilised to aid the understanding of complex physical processes, in particular;
 
-- Uncertainty quantification of the major sources of uncertainty in the models and their links to the corresponding physical systems, along with appropriate propagation of uncertainty through any statistical analysis to decision making.
+- **Uncertainty Quantification (UQ)** of the major sources of uncertainty in the models and their links to the corresponding physical systems, along with appropriate propagation of uncertainty through any statistical analysis to decision making.
 
-- Bayesian emulation of computationally intensive models to facilitate comprehensive analysis of model behaviour across possibly high-dimensional parameter spaces. Such emulation is essential for performing many analyses involving the models, including sensitivity analysis and optimisation. Two of my main interests in this field are;
+- **Bayesian Emulation:** of computationally intensive models to facilitate comprehensive analysis of model behaviour across possibly high-dimensional parameter spaces. Such emulation is essential for performing many analyses involving the models, including sensitivity analysis and optimisation. Two of my main interests in this field are;
   - the development of emulation tools for analysing networks of computer models, where many of the models’ inputs are taken to be outputs to previous models. Efficient emulation of spatial and temporal models as part of a larger network of models forms a large part of my research interests in this area.
   - effective exploitation of boundaries in parameter space along which model behaviour is known, in order to aid the development of more efficient emulation techniques.  
    <br />
