@@ -23,7 +23,8 @@ Two of my main interests in this field are;
   - the development of emulation tools for analysing networks of computer models, where many of the models’ inputs are taken to be outputs to previous models. Efficient emulation of spatial and temporal models as part of a larger network of models forms a large part of my research interests in this area.
   - effective exploitation of boundaries in parameter space along which model behaviour is known, in order to aid the development of more efficient emulation techniques.  
    <br />
-- Design of physical system experiments for **history matching**, seeking those experiments that are expected to be most informative in accordance with large classes of possible specific scientific criteria.
+- **History matching:** finding the set of all possible combinations of computer model input parameters which are not inconsistent with observed data, gathered from a collection of physical experiments, given all the sources of uncertainty involved with the model and the measurements. 
+Particular research interests in this area include designing physical experiments for prospective history matching that are expected to be most informative in accordance with large classes of possible specific scientific criteria.
 
 - Comparison of ensembles of models using **Approximate Bayesian Computation** and history matching techniques. This is informative for scientists looking to gain insight into the merits and drawbacks of several different computer models, and for the potential development of Bayesian Model Averaging techniques.
 
