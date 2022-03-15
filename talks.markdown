@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+- 11 March 2022: Uncertainty Quantification and Bayesian Emulation of Computer Models, Computational Mechanics Seminar, Department of Engineering, Durham University, UK.
+
 - 18 October 2021: Known Boundary Emulation of Computer Models. Statistics Seminar, Durham University, UK.
 
 - 30 April 2021: Understanding Scientific Processes via Sequential History Matching and Emulation of Computer Models. Statistics Seminar, University of Glasgow, UK.
