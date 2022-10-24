@@ -6,7 +6,7 @@ permalink: /teaching/
 
 In 2022/23, I am teaching the following courses at Durham University:
 
-- MATH3411: Advanced Statistical Modelling III (Term 1).  Some open-source lecture notes for this course can be found [**here**][jackson2022asm]. 
+- MATH3411: Advanced Statistical Modelling III (Term 1).  
 
 - MATH42815: Master of Data Science module on Machine Learning (First half).  Some open-source lecture notes for this course can be found [**here**][jackson2022ml]. 
 

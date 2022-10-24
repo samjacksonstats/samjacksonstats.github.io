@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+- 16 September 2022: Design of Experiments for History Matching of Computer Models of Physical Processes, Statistics Seminar, Institut de Recherche Mathématique de Rennes, Université de Rennes, France.
+
 - 11 March 2022: Uncertainty Quantification and Bayesian Emulation of Computer Models, Computational Mechanics Seminar, Department of Engineering, Durham University, UK.
 
 - 18 October 2021: Known Boundary Emulation of Computer Models. Statistics Seminar, Durham University, UK.
