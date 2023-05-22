@@ -6,7 +6,7 @@ layout: home
 ---
 <img src="pics/meo.jpg" height="200">
 
-My name is Sam Jackson.  I am an Assistant Professor of Statistics at Durham University, UK, as well as a private statistical consultant and educator, with specific expertise in the areas of computer modelling of physical systems, uncertainty quantification, risk management, decision support and machine learning. Please see the [**Services**][jacksonServices] page or contact me for further information regarding consultancy, collaboration, courses or private tuition.
+My name is Sam Jackson.  I am an Assistant Professor of Statistics at Durham University, UK, as well as a private statistical consultant and educator, with specific expertise in the areas of computer modelling of physical systems, uncertainty quantification, risk management, decision support and machine learning. Please see the [**Services**][jacksonServices] page or [contact me](mailto:samjacksonstats@gmail.com) for further information regarding consultancy, collaboration, courses or private tuition.
 
 <img src="pics/virus.jpg" height="130">
 <img src="pics/volcano.jpg" height="130">
