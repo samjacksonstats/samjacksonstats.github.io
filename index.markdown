@@ -6,16 +6,18 @@ layout: home
 ---
 <img src="pics/meo.jpg" height="200">
 
-My name is Sam Jackson.  I am an Assistant Professor at Durham University, UK.  
+My name is Sam Jackson.  I am an Assistant Professor of Statistics at Durham University, UK, as well as a private statistical consultant and educator, with specific expertise in the areas of computer modelling of physical systems, uncertainty quantification, risk management, decision support and machine learning. Please see the [**Services**][jacksonServices] page or contact me for further information regarding consultancy, collaboration, courses or private tuition.
 
 <img src="pics/virus.jpg" height="130">
 <img src="pics/volcano.jpg" height="130">
 <img src="pics/wheat.jpg" height="130">
 <img src="pics/flu.jpg" height="130">
 
-My research interests lie primarily in the **statistical analysis of computer models**, as utilised to aid the understanding of complex physical processes, in particular;
+My expertise and research interests lie primarily in the **statistical analysis of computer models**, as utilised to aid the understanding of complex physical processes, in particular;
 
 - **Uncertainty Quantification (UQ)** of the major sources of uncertainty in the models and their links to the corresponding physical systems, along with appropriate propagation of uncertainty through any statistical analysis to decision making.
+
+- **Risk Management and Decision Support**: once uncertainty in a problem has been properly identified and quantified, we can robustly account for that in the decision making process to minimise the consequential risks involved.
 
 - **Bayesian Emulation:** the full UQ calculations based on computer models (across possibly high-dimensional parameter spaces) that a serious scientific analysis requires are frequently prohibitively computationally intensive, thus often benefitting from use of emulators.  An emulator is a fast statistical construct that mimics the complex computer model, providing both a prediction of model behaviour and consequential uncertainty estimate of the prediction, across the entire model input space.
 <!-- of computationally intensive models to facilitate comprehensive analysis of model behaviour across possibly high-dimensional parameter spaces. Such emulation is essential for performing many analyses involving the models, including sensitivity analysis and optimisation. -->
@@ -28,6 +30,8 @@ Particular research interests in this area include designing physical experiment
 
 - Comparison of ensembles of models using **Approximate Bayesian Computation** and history matching techniques. This is informative for scientists looking to gain insight into the merits and drawbacks of several different computer models, and for the potential development of Bayesian Model Averaging techniques.
 
+- **Machine Learning:** Utilising neural networks and deep Gaussian processes for the statistical modelling and understanding of big datasets and complex computer models.
+
 - Application of the above to a wide range of disciplines, including **defence threat reduction, epidemiology, medical imaging and systems biology**.
 
 Apart from computer models, I have also done work studying high-dimensional microarray data, spatial statistics looking at volcanic activity across Earth, and classification for materials science.
@@ -39,3 +43,5 @@ Apart from computer models, I have also done work studying high-dimensional micr
 
 <img src="pics/rsc2017logo.jpg" height="130">
 <img src="pics/stats4gradslogo.jpg" height="70">
+
+[jacksonServices]: https://samjacksonstats.github.io/services/

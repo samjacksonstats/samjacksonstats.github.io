@@ -19,8 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Samuel Jackson
-email: samuel.e.jackson@durham.ac.uk
-description: Statistics, Uncertainty Quantification and interesting problems...with impactful applications...find me at the Department of Mathematical Sciences, Durham University, Durham, DH1 3LE, UK.
+email: samjacksonstats@gmail.com
+       samuel.e.jackson@durham.ac.uk
+description: Consultancy services and private educator of Statistics, Uncertainty Quantification, Machine Learning, Risk Management and Decision Support...please do get in touch!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
