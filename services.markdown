@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-- **Consultancy:** I have consulted and collorated widely across the public and private sectors, including with the Defence Science and Technologies Laboratory (DSTL), Public Health England, Janssen Pharmaceutical Companies of Johnson & Johnson, and Ibex innovations.  Please do [get in touch](mailto:samjacksonstats@gmail.com) if you would like to discuss my statistical consultancy services further.
+- **Consultancy:** I have consulted and collaborated widely across the public and private sectors, including with the Defence Science and Technologies Laboratory (DSTL), Public Health England, Janssen Pharmaceutical Companies of Johnson & Johnson, and Ibex innovations.  Please do [get in touch](mailto:samjacksonstats@gmail.com) if you would like to discuss my statistical consultancy services further.
 
 - **Collaboration:** I have collaborated widely in the physical sciences, including in the areas of defence threat reduction, epidemiology, genomics, materials science, medical imaging, systems biology and volcanology.  Please do [get in touch](mailto:samuel.e.jackson@durham.ac.uk) if you have a potential area of academic collaboration which you would like to discuss with me.
 
