@@ -4,9 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-- Stokes, B. M., Jackson, S. E., garnett, P. and Luo, J. (2022) [**Extremism, segregation and oscillatory states emerge through collective opinion dynamics in a novel agent-based model.**][stokes2022esa] Journal of Mathematical Sociology.  DOI: 10.1080/0022250X.2022.2124246
+- Alldred, F., Grocke, D. R., Jackson, S. E. and Reid, G. (2024) [**Nitrogen Isotopes in Herbaria Document Historical Nitrogen Pollution in the River Mersey**][alldred2024nii] Environmental Science: Advances.
 
-- Jackson, S. E. and Vernon, I. (2022) [**Efficient Emulation of Computer Models Utilising Multiple Known Boundaries of Differing Dimension.**][jackson2022eeo] Bayesian Analysis.
+- Jackson, S. E. and Vernon, I. (2023) [**Efficient Emulation of Computer Models Utilising Multiple Known Boundaries of Differing Dimension.**][jackson2023eeo] Bayesian Analysis.
+
+- Stokes, B. M., Jackson, S. E., garnett, P. and Luo, J. (2022) [**Extremism, segregation and oscillatory states emerge through collective opinion dynamics in a novel agent-based model.**][stokes2022esa] Journal of Mathematical Sociology.  DOI: 10.1080/0022250X.2022.2124246
 
 - Jackson, S. E., Vernon, I., Liu, J. and Lindsey, K. (2020) [**Understanding Hormonal Crosstalk in Arabidopsis Root Development via Emulation and History Matching.**][jackson2020uhc] Statistical Applications in Genetics and Molecular Biology.
 
@@ -22,8 +24,9 @@ permalink: /publications/
 
 - Einbeck, J., Jackson, S. E. and Kasim, A. (2015). *A Summer with Genes: Simple Disease Classification from Microarray Data.* Mathematics Today 51(4): 186-188.
 
+[alldred2024nii]: https://pubs.rsc.org/en/content/articlehtml/2024/va/d4va00015c
+[jackson2023eeo]: https://doi.org/10.1214/22-BA1304
 [stokes2022esa]: https://www.tandfonline.com/doi/full/10.1080/0022250X.2022.2124246
-[jackson2022eeo]: https://doi.org/10.1214/22-BA1304
 [jackson2020uhc]: https://www.degruyter.com/document/doi/10.1515/sagmb-2018-0053/html
 [rosini2019iss]: https://www.sciencedirect.com/science/article/abs/pii/S1359835X19302921
 [jackson2018dop]: http://etheses.dur.ac.uk/12826/

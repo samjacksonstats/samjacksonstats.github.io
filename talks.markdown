@@ -3,6 +3,15 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+- 28 February 2024: Probability-Free Digital Twinning Using Linked Bayes Linear Emulators with Uncertain Inputs, SIAM Conference on Uncertainty Quantification, Trieste, Italy.
+
+- 20 February 2024: Uncertainty Quantification and Bayesian Emulation of Computer Models for Risk Management and Decision Support, Bristol Business School Seminar, University of Bristol, UK.
+
+- 28 September 2023: Efficient Emulation Utilising Known Boundary Information, Southampton Statistical Sciences Research Institute Seminar, University of Southampton, UK.
+
+- 22 September 2023: Uncertainty Quantification for Decision Making using Computer Models, Mathematical Sciences Research Day, Durham University, UK.
+
+- 21 June 2023: Efficient Emulation Utilising Known Boundary Information, Statistics Seminar, University of Lancaster, UK.
 
 - 16 September 2022: Design of Experiments for History Matching of Computer Models of Physical Processes, Statistics Seminar, Institut de Recherche Mathématique de Rennes, Université de Rennes, France.
 
