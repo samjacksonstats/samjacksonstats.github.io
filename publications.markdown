@@ -6,7 +6,7 @@ permalink: /publications/
 
 - Treasure, E. R., Grocke, D. R., Lester, J. J., Bishop, R. R., Jackson, S. E. and Church, M. J. (2024) [**Further investigation into the impact of manuring on stable carbon (δ13C) and nitrogen isotope (δ15N) values in pulses: a four-year experiment examining Celtic bean (Vicia faba).**][treasure2024fii] Archaeological and Anthropological Sciences, 16(130).
 
-- Alldred, F., Grocke, D. R. and Jackson S. E. (2024) [**Nitrogen isotope variability of macroalgae from a small fishing village, Staithes Harbour, Yorkshire, UK**][alldred2024niv], Marine Pollution, 116828.
+- Alldred, F., Grocke, D. R. and Jackson S. E. (2024) **Nitrogen isotope variability of macroalgae from a small fishing village, Staithes Harbour, Yorkshire, UK**, Marine Pollution, 116828.
 
 - Alldred, F., Grocke, D. R., Jackson, S. E. and Reid, G. (2024) [**Nitrogen Isotopes in Herbaria Document Historical Nitrogen Pollution in the River Mersey**][alldred2024nii] Environmental Science: Advances.
 
@@ -29,7 +29,6 @@ permalink: /publications/
 - Einbeck, J., Jackson, S. E. and Kasim, A. (2015). *A Summer with Genes: Simple Disease Classification from Microarray Data.* Mathematics Today 51(4): 186-188.
 
 [treasure2024fii]: https://link.springer.com/article/10.1007/s12520-024-02045-x 
-[alldred2024niv]: 
 [alldred2024nii]: https://pubs.rsc.org/en/content/articlehtml/2024/va/d4va00015c
 [jackson2023eeo]: https://doi.org/10.1214/22-BA1304
 [stokes2022esa]: https://www.tandfonline.com/doi/full/10.1080/0022250X.2022.2124246
