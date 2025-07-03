@@ -3,6 +3,12 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+- 12 May 2025: Advances in UQ for Computer Models with Application to Systems Biology: Known Boundary Emulation and Design of Experiments for History Matching, Statistics Seminar, University of Sheffield, UK.
+
+- 21 March 2025: Eﬃcient Emulation Utilising Known Boundary Information, Statistics Seminars, University of Leeds, UK.
+
+- 15 December 2024: Bayes Linear Analysis with Uncertain Covariates, 18th International Conference on Computational and Methodological Statistics (CMStatistics), London, UK.
+
 - 28 February 2024: Probability-Free Digital Twinning Using Linked Bayes Linear Emulators with Uncertain Inputs, SIAM Conference on Uncertainty Quantification, Trieste, Italy.
 
 - 20 February 2024: Uncertainty Quantification and Bayesian Emulation of Computer Models for Risk Management and Decision Support, Bristol Business School Seminar, University of Bristol, UK.
